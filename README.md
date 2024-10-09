@@ -14,21 +14,15 @@ AgriConnect is an innovative **Flutter** application designed for plant disease 
 ## 🖼️ Screenshots
 
 <div style="display: flex; flex-direction: row; justify-content: space-between;">
-    <img src="https://github.com/user-attachments/assets/b969bc0c-bf38-40d5-8f4c-e916de7ac128" alt="Splash-screen" height="300"/>
-    <img src="https://github.com/user-attachments/assets/e5195854-a33f-4b6f-8deb-1eb07cb5201d" alt="Welcome-screen" height="300"/>
-    <img src="https://github.com/user-attachments/assets/6d82db48-2470-4139-8846-3dd421b3bc58" alt="Signup-screen" height="300"/>
-    <img src="https://github.com/user-attachments/assets/b0d5acc8-9eae-4ff0-9d6d-7613b0052981" alt="Farmer-Login-screen" height="300"/>
-    <img src="https://github.com/user-attachments/assets/2076fc62-bc37-4cdd-8429-d455cc964d85" alt="Vendor-Login-screen" height="300"/>
-    <img src="https://github.com/user-attachments/assets/6679be25-e2b3-4a1b-ba42-4a32536ee508" alt="Home-screen" height="300"/>
-    <img src="https://github.com/user-attachments/assets/5a422496-92bb-47e9-aea4-41f162559487" alt="Search-screen" height="300"/>
-    <img src="https://github.com/user-attachments/assets/82e902e7-5c89-437d-9cf0-aba0715afe6a" alt="Cateogry-screen" height="300"/>
-    <img src="https://github.com/user-attachments/assets/604f043d-f2eb-4718-8e8c-d7c26d3699e2" alt="Product-Detail-screen" height="300"/>
-    <img src="https://github.com/user-attachments/assets/0c08da58-b0bf-4db3-b61c-1b3517636b1e" alt="Inventory-screen" height="300"/>
-    <img src="https://github.com/user-attachments/assets/d9ade874-ee1f-4e00-b5a6-bd1b045d178a" alt="Cart-screen" height="300"/>
-    <img src="https://github.com/user-attachments/assets/8e002e43-6199-4e81-a890-18e88cff2afc" alt="Orders-screen" height="300"/>
-    <img src="https://github.com/user-attachments/assets/1080c7c2-9aa4-4cf3-bd0e-a30874cb736e" alt="Vendor-screen" height="300"/>
-    <img src="https://github.com/user-attachments/assets/017d8e26-a1c9-4ed1-87da-5ce69e68fd00" alt="Add-Product-screen" height="300"/>
-    <img src="https://github.com/user-attachments/assets/2ae61e10-7584-455c-ae96-baacf793e6a1" alt="Vendors-Orders-screen" height="300"/>
+    <img src="https://github.com/user-attachments/assets/c87c2652-1c05-423a-944d-de6d4f04080a" alt="Splash-screen" height="300"/>
+    <img src="https://github.com/user-attachments/assets/0388891f-3980-4ec4-a280-f41a625a8bfd" alt="Home-screen" height="300"/>
+    <img src="https://github.com/user-attachments/assets/8946fe63-97c2-45c2-9584-904863bd4d16" alt="Gallery-screen" height="300"/>
+    <img src="https://github.com/user-attachments/assets/5dc37d2e-b08b-48b0-93d3-14232868ad09" alt="Gallery-View-screen" height="300"/>
+    <img src="https://github.com/user-attachments/assets/8a3c5aeb-bd95-4906-b257-06176f5c0068" alt="Model-Output-screen" height="300"/>
+    <img src="https://github.com/user-attachments/assets/310ff245-dc1d-4348-a621-0373fed26b3e" alt="Disease-Detail-Screen" height="300"/>
+    <img src="https://github.com/user-attachments/assets/91316be1-7709-4997-865d-4f1994d7ccfd" alt="Disease-Treatment-screen" height="300"/>
+    <img src="https://github.com/user-attachments/assets/25a0474d-a23e-4c4f-a2a5-be6d5fdc0f81" alt="Images-View-screen" height="300"/>
+    <img src="https://github.com/user-attachments/assets/fb63fe19-0636-4ab9-958f-0e277c52099c" alt="Camera-View-screen" height="300"/>
 </div>
 
 ---
